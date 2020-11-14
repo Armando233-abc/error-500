@@ -1,1 +1,1 @@
-ERROR 500
+[ERROR 500](https://armando233-abc.github.io/error-500/)
