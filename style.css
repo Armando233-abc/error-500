@@ -43,7 +43,7 @@ img{
 
 @media (max-width: 576px){
     p{
-        font-size: 25px;
+        font-size: 20px;
         margin: 5px;
     }
 }
@@ -59,7 +59,7 @@ img{
     }
 
     p{
-        font-size: 40px;
+        font-size: 35px;
     }
 
     h3{
